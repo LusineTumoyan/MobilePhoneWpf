@@ -1,0 +1,6 @@
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\bin\Debug\PhoneBusinessLayer.dll
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\bin\Debug\PhoneBusinessLayer.pdb
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\obj\Debug\PhoneBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\obj\Debug\PhoneBusinessLayer.dll
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\obj\Debug\PhoneBusinessLayer.pdb
+C:\Users\Comp\source\repos\WpfPhone\PhoneBusinessLayer\obj\Debug\PhoneBusinessLayer.csprojAssemblyReference.cache
